@@ -1,0 +1,3 @@
+﻿{
+	"APItoken": "сюда вставить APItoken bot"
+}
