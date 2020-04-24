@@ -1,0 +1,4 @@
+﻿{
+	"APItoken": "",
+	"useIn1C": "True"
+}
