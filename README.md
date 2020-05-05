@@ -11,3 +11,5 @@
 **Платформа**: 8.3.10
 
 **Конфигурации**: BAS Бухгалтерія, редакція 2.1 (2.1.5.4)
+
+Обсудить можно в чате [![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/automation_1c_chat)
