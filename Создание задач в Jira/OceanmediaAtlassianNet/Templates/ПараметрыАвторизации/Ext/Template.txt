@@ -1,0 +1,5 @@
+﻿{
+	"LOGIN": "M.Samokhval@oceantechnology.com.ua",
+	"TOKEN": "<сюда вставить токен, полученный на этой странице https://id.atlassian.com/manage-profile/security/api-tokens>",
+	"SERVER": "oceanmedia.atlassian.net"
+}
