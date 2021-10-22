@@ -1943,16 +1943,7 @@
 			<c>
 				<c>
 					<f>5</f>
-					<tl>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>ФИО директора [ФИОДиректора]</v8:content>
-						</v8:item>
-						<v8:item>
-							<v8:lang>uk</v8:lang>
-							<v8:content>ПІБ директора [ФИОДиректора]</v8:content>
-						</v8:item>
-					</tl>
+					<parameter>ФИОДиректора</parameter>
 				</c>
 			</c>
 			<c>
@@ -15831,7 +15822,7 @@
 		<verticalAlignment>Bottom</verticalAlignment>
 		<textColor>#000000</textColor>
 		<textPlacement>Auto</textPlacement>
-		<fillType>Template</fillType>
+		<fillType>Parameter</fillType>
 	</format>
 	<format>
 		<font>0</font>
