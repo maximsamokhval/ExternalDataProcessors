@@ -1,4 +1,11 @@
 # Дополнительные внешние обработки на управляемых формах
+
+[![Stars](https://img.shields.io/github/stars/maximsamokhval/ExternalDataProcessors.svg?label=Github%20%E2%98%85&a)](https://github.com/maximsamokhval/ExternalDataProcessors/stargazers) 
+
+![forks](https://img.shields.io/github/forks/maximsamokhval/ExternalDataProcessors?style=for-the-badge)
+![last commit](https://img.shields.io/github/last-commit/maximsamokhval/ExternalDataProcessors?style=for-the-badge)
+[![Telegram](https://img.shields.io/badge/telegram-group-blue?style=for-the-badge&logo=telegram)](https://t.me/automation_community)
+
 - Полезные внешние обработки, которые были написаны в ходе различных работ.
 - Примеры полезного кода (сниппеты)
 
